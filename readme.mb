@@ -1,3 +1,9 @@
+#BONES RENAMER + ARMATURE DE SIFAS EXPERIMENTAL
+Esta es una modificacion del plugin de blender 2.7, adaptada para que sea compatible con blender 3, y con el armature del sifas añadido de manera experimental.
+La transformacion de bones del armature del SIFAS (muy similar a MOTION BUILDER) a MMD técnicamente funciona, en parte... pero todavía no es usable porque le falta el equivalente al bone root, además de otros problemas como la rotación bizarra de ejes que tiene blender.
+
+
+#ORIGINAL:
 This is a Blender add-on to do a mass renaming of bones from and to several types of standard  armatures of 3D character models. It is intended to help save time in converting 3D character models and animations from one format to another. The supported armature types are:
 
 MMD (MikuMikuDance) English
